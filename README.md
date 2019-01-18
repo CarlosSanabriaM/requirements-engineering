@@ -5,6 +5,6 @@ Documentos de Especificación de Requisitos Software según el IEEE-830 para dos
 
 ## Autores
 - Carlos Sanabria Miranda ([@CarlosSanabriaM](https://github.com/CarlosSanabriaM))
-- Andrés Ángel González 
-- Granda Alba Cotarelo Tuñón
-- Javier Díez García
+- Alba Cotarelo Tuñón ([@albact7](https://github.com/albact7))
+- Javier Díez García ([@javicodema](https://github.com/javicodema))
+- Andrés Ángel González Granda
